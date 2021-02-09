@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-crypocurrency-api/static/css/main.13900e7d.chunk.css",
+    "main.js": "/react-crypocurrency-api/static/js/main.2cb54970.chunk.js",
+    "main.js.map": "/react-crypocurrency-api/static/js/main.2cb54970.chunk.js.map",
+    "runtime-main.js": "/react-crypocurrency-api/static/js/runtime-main.dddc1424.js",
+    "runtime-main.js.map": "/react-crypocurrency-api/static/js/runtime-main.dddc1424.js.map",
+    "static/js/2.3629d385.chunk.js": "/react-crypocurrency-api/static/js/2.3629d385.chunk.js",
+    "static/js/2.3629d385.chunk.js.map": "/react-crypocurrency-api/static/js/2.3629d385.chunk.js.map",
+    "index.html": "/react-crypocurrency-api/index.html",
+    "static/css/main.13900e7d.chunk.css.map": "/react-crypocurrency-api/static/css/main.13900e7d.chunk.css.map",
+    "static/js/2.3629d385.chunk.js.LICENSE.txt": "/react-crypocurrency-api/static/js/2.3629d385.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dddc1424.js",
+    "static/js/2.3629d385.chunk.js",
+    "static/css/main.13900e7d.chunk.css",
+    "static/js/main.2cb54970.chunk.js"
+  ]
+}
